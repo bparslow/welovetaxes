@@ -1,0 +1,2483 @@
+[
+  {
+    "schedule_name": "ReturnHeader990x",
+    "groups": {},
+    "schedule_parts": {
+      "returnheader990x_part_i": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "RtrnHdr_RtrnTs": "2017-05-15T09:07:52-07:00",
+        "RtrnHdr_TxPrdEndDt": "2016-06-30",
+        "RtrnHdr_RtrnCd": "990",
+        "RtrnHdr_TxPrdBgnDt": "2015-07-01",
+        "Flr_EIN": "141340095",
+        "BsnssNm_BsnssNmLn1Txt": "RENSSELAER POLYTECHNIC INSTITUTE",
+        "Flr_BsnssNmCntrlTxt": "RENS",
+        "Flr_PhnNm": "5182766426",
+        "USAddrss_AddrssLn1Txt": "110 EIGHTH STREET",
+        "USAddrss_CtyNm": "TROY",
+        "USAddrss_SttAbbrvtnCd": "NY",
+        "USAddrss_ZIPCd": "12180",
+        "BsnssOffcr_PrsnNm": "VIRGINIA C GREGG",
+        "BsnssOffcr_PrsnTtlTxt": "Vice President & CFO",
+        "BsnssOffcr_SgntrDt": "2017-05-15",
+        "RtrnHdr_TxYr": "2015"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990",
+    "groups": {
+      "Frm990PrtVIISctnA": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "PATRICK MADDEN",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "WANDA DENSON-LOW",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "FRANK M FISCHER",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "DANIEL T PICKETT III",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "GEORGE CAMPBELL JR",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JOHN W CARR",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "GARY T DICAMILLO",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "ARTHUR F GOLDEN",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "CURTIS R PRIEM",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "ARTHUR J GAJARSA",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "MICHAEL E HERMAN",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "DAVID M HIRSCH",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JOHN E KELLY III",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JEFFREY L KODOSKY",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "MARK M LITTLE",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "WILLIAM L MEANEY",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "NANCY S MUELLER",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JANET C RUTLEDGE",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "PAUL J SEVERINO",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "PAULA LORING SIMON",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JACKSON P TAI",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "SIVA SIVARAM",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "EDWARD J ZANDER",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "RONALD J ZLATOPER",
+          "TtlTxt": "Trustee",
+          "AvrgHrsPrWkRt": "2.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "IndvdlTrstOrDrctrInd": "X",
+          "RprtblCmpFrmOrgAmt": "0",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "CHARLES CARLETTA",
+          "TtlTxt": "Secretary",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "330610",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "36971"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JONATHAN DORDICK",
+          "TtlTxt": "Vice President",
+          "AvrgHrsPrWkRt": "45.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "416695",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "40859"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "VIRGINIA C GREGG",
+          "TtlTxt": "Vice President",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "439481",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "37611"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "PRABHAT HAJELA",
+          "TtlTxt": "Provost",
+          "AvrgHrsPrWkRt": "45.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "442785",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "37940"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "SHIRLEY ANN JACKSON",
+          "TtlTxt": "President",
+          "AvrgHrsPrWkRt": "55.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "1392864",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "745444"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "DAVID BROND",
+          "TtlTxt": "Vice President",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "145075",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "17486"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JOHN E KOLB",
+          "TtlTxt": "Vice President",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "423579",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "37748"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JONATHAN WEXLER",
+          "TtlTxt": "Vice President",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "131371",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "9534"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "CURTIS N POWELL",
+          "TtlTxt": "Vice President",
+          "AvrgHrsPrWkRt": "45.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "766683",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "158745"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "CLAUDE ROUNDS",
+          "TtlTxt": "Vice President",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "306115",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "38063"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "FRANK ROSS",
+          "TtlTxt": "Vice President",
+          "AvrgHrsPrWkRt": "45.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "172518",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "17253"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "GRAIG EASTIN",
+          "TtlTxt": "Vice President",
+          "AvrgHrsPrWkRt": "45.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "OffcrInd": "X",
+          "RprtblCmpFrmOrgAmt": "397268",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "42642"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "SHEKAR GARDE",
+          "TtlTxt": "DEAN, SCHOOL OF ENGINEERING",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "KyEmplyInd": "X",
+          "RprtblCmpFrmOrgAmt": "337470",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "37571"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "THOMAS BEGLEY",
+          "TtlTxt": "DEAN, LALLY SCHOOL",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "HghstCmpnstdEmplyInd": "X",
+          "RprtblCmpFrmOrgAmt": "423941",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "37596"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "BILL FRANCIS",
+          "TtlTxt": "PROFESSOR",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "HghstCmpnstdEmplyInd": "X",
+          "RprtblCmpFrmOrgAmt": "332314",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "36695"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "FRANCINE BERMAN",
+          "TtlTxt": "PROFESSOR",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "HghstCmpnstdEmplyInd": "X",
+          "RprtblCmpFrmOrgAmt": "353073",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "37289"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "ROBERT LINHARDT",
+          "TtlTxt": "PROFESSOR",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "HghstCmpnstdEmplyInd": "X",
+          "RprtblCmpFrmOrgAmt": "327199",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "36401"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "E BRUCE WATSON",
+          "TtlTxt": "PROFESSOR",
+          "AvrgHrsPrWkRt": "40.00",
+          "AvrgHrsPrWkRltdOrgRt": "0.00",
+          "HghstCmpnstdEmplyInd": "X",
+          "RprtblCmpFrmOrgAmt": "332782",
+          "RprtblCmpFrmRltdOrgAmt": "0",
+          "OthrCmpnstnAmt": "57001"
+        }
+      ],
+      "CntrctrCmpnstn": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BsnssNm_BsnssNmLn1Txt": "RC Housing 1 LLC",
+          "USAddrss_AddrssLn1Txt": "18 Aiken",
+          "USAddrss_CtyNm": "Hudson",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12534",
+          "CntrctrCmpnstn_SrvcsDsc": "Rent",
+          "CntrctrCmpnstn_CmpnstnAmt": "1432250"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BsnssNm_BsnssNmLn1Txt": "Pattison Sampson & Ginsberg & Griffin PC",
+          "USAddrss_AddrssLn1Txt": "22 First Street",
+          "USAddrss_CtyNm": "Troy",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12181",
+          "CntrctrCmpnstn_SrvcsDsc": "Legal",
+          "CntrctrCmpnstn_CmpnstnAmt": "1054255"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BsnssNm_BsnssNmLn1Txt": "Mt Ida Apartments LLC",
+          "USAddrss_AddrssLn1Txt": "PO Box 12753",
+          "USAddrss_CtyNm": "Albany",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12212",
+          "CntrctrCmpnstn_SrvcsDsc": "Rent",
+          "CntrctrCmpnstn_CmpnstnAmt": "959370"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "CntrctrNm_PrsnNm": "Cheng Hsu",
+          "USAddrss_AddrssLn1Txt": "168 Maxwell Road",
+          "USAddrss_CtyNm": "Latham",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12110",
+          "CntrctrCmpnstn_SrvcsDsc": "Royalty Payment",
+          "CntrctrCmpnstn_CmpnstnAmt": "871500"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BsnssNm_BsnssNmLn1Txt": "Meyers & Meyers LLP",
+          "USAddrss_AddrssLn1Txt": "1734 Western Avenue",
+          "USAddrss_CtyNm": "Albany",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12203",
+          "CntrctrCmpnstn_SrvcsDsc": "Legal",
+          "CntrctrCmpnstn_CmpnstnAmt": "570524"
+        }
+      ],
+      "PrgrmSrvcRvn": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Auxililaries",
+          "BsnssCd": "611710",
+          "TtlRvnClmnAmt": "13336631",
+          "RltdOrExmptFncIncmAmt": "13336631"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Other revenue",
+          "BsnssCd": "900099",
+          "TtlRvnClmnAmt": "4001739",
+          "RltdOrExmptFncIncmAmt": "4001739"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Research contracts",
+          "BsnssCd": "900099",
+          "TtlRvnClmnAmt": "77274375",
+          "RltdOrExmptFncIncmAmt": "77274375"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Tuition & fees, housing &",
+          "BsnssCd": "611600",
+          "TtlRvnClmnAmt": "362755507",
+          "RltdOrExmptFncIncmAmt": "362755507"
+        }
+      ],
+      "OthrExpnss": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Research subcontracts",
+          "TtlAmt": "6546608",
+          "PrgrmSrvcsAmt": "6546608"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Other miscellaneous",
+          "TtlAmt": "3808146",
+          "PrgrmSrvcsAmt": "2625697",
+          "MngmntAndGnrlAmt": "1130891",
+          "FndrsngAmt": "51558"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Printing & publication",
+          "TtlAmt": "3569162",
+          "PrgrmSrvcsAmt": "3185708",
+          "MngmntAndGnrlAmt": "266196",
+          "FndrsngAmt": "117258"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Bad debt expense",
+          "TtlAmt": "260230",
+          "PrgrmSrvcsAmt": "84015",
+          "MngmntAndGnrlAmt": "176215"
+        }
+      ]
+    },
+    "schedule_parts": {
+      "part_0": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "AmnddRtrnInd": "X",
+        "GrssRcptsAmt": "706252913",
+        "GrpRtrnFrAffltsInd": "false",
+        "AllAffltsInclddInd": "false",
+        "Orgnztn501c3Ind": "X",
+        "WbstAddrssTxt": "www.rpi.edu",
+        "OfOrgnztnCrpInd": "X",
+        "FrmtnYr": "1824",
+        "LglDmclSttCd": "NY"
+      },
+      "part_i": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "ActvtyOrMssnDsc": "Rensselaer educates the leaders of tomorrow for technologically based careers. We celebrate discovery and the responsible application of technology to create knowledge and global prosperity.",
+        "VtngMmbrsGvrnngBdyCnt": "24",
+        "VtngMmbrsIndpndntCnt": "24",
+        "TtlEmplyCnt": "5261",
+        "TtlVlntrsCnt": "2764",
+        "TtlGrssUBIAmt": "-642838",
+        "NtUnrltdBsTxblIncmAmt": "-642838",
+        "PYCntrbtnsGrntsAmt": "57706138",
+        "CYCntrbtnsGrntsAmt": "43838677",
+        "PYPrgrmSrvcRvnAmt": "439953249",
+        "CYPrgrmSrvcRvnAmt": "457368252",
+        "PYInvstmntIncmAmt": "31704493",
+        "CYInvstmntIncmAmt": "32246755",
+        "PYOthrRvnAmt": "1735861",
+        "CYOthrRvnAmt": "4432935",
+        "PYTtlRvnAmt": "531099741",
+        "CYTtlRvnAmt": "537886619",
+        "PYGrntsAndSmlrPdAmt": "155263714",
+        "CYGrntsAndSmlrPdAmt": "167120398",
+        "CYBnftsPdTMmbrsAmt": "0",
+        "PYSlrsCmpEmpBnftPdAmt": "192645032",
+        "CYSlrsCmpEmpBnftPdAmt": "194817953",
+        "PYTtlPrfFndrsngExpnsAmt": "56011",
+        "CYTtlPrfFndrsngExpnsAmt": "55890",
+        "CYTtlFndrsngExpnsAmt": "5171523",
+        "PYOthrExpnssAmt": "159411096",
+        "CYOthrExpnssAmt": "156504776",
+        "PYTtlExpnssAmt": "507375853",
+        "CYTtlExpnssAmt": "518499017",
+        "PYRvnsLssExpnssAmt": "23723888",
+        "CYRvnsLssExpnssAmt": "19387602",
+        "TtlAsstsBOYAmt": "1486212888",
+        "TtlAsstsEOYAmt": "1430642033",
+        "TtlLbltsBOYAmt": "1053632357",
+        "TtlLbltsEOYAmt": "1066860935",
+        "NtAsstsOrFndBlncsBOYAmt": "432580531",
+        "NtAsstsOrFndBlncsEOYAmt": "363781098"
+      },
+      "part_iii": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "InfInSkdOPrtIIIInd": "X",
+        "MssnDsc": "Rensselaer educates the leaders of tomorrow for technologically based careers. We celebrate discovery and the responsible application of technology to create knowledge and global prosperity.",
+        "SgnfcntNwPrgrmSrvcInd": "false",
+        "SgnfcntChngInd": "false",
+        "ExpnsAmt": "197713859",
+        "GrntAmt": "21486349",
+        "RvnAmt": "362755507",
+        "Dsc": "INSTRUCTIONNumber of students enrolled: Undergraduate 5,781 Graduate 1,238",
+        "PrgSrvcAccmActy2_ExpnsAmt": "129469746",
+        "PrgSrvcAccmActy2_GrntAmt": "128078318",
+        "PrgSrvcAccmActy2_Dsc": "SCHOLARSHIP & FELLOWSHIPNumber of undergraduate students on scholarship: 5,140Number of graduate students on scholarships/fellowships: 943",
+        "PrgSrvcAccmActy3_ExpnsAmt": "94007824",
+        "PrgSrvcAccmActy3_GrntAmt": "16343022",
+        "PrgSrvcAccmActy3_RvnAmt": "77274375",
+        "PrgSrvcAccmActy3_Dsc": "RESEARCHNumber of active research projects: 773",
+        "TtlOthrPrgSrvcExpnsAmt": "38724701",
+        "TtlOthrPrgSrvcGrntAmt": "142392",
+        "TtlOthrPrgSrvcRvnAmt": "17338370",
+        "TtlPrgrmSrvcExpnssAmt": "459916130"
+      },
+      "part_iv": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "DscrbdInSctn501c3Ind": "true",
+        "SkdBRqrdInd": "true",
+        "PltclCmpgnActyInd": "false",
+        "LbbyngActvtsInd": "true",
+        "SbjctTPrxyTxInd": "false",
+        "DnrAdvsdFndInd": "false",
+        "CnsrvtnEsmntsInd": "false",
+        "CllctnsOfArtInd": "false",
+        "CrdtCnslngInd": "false",
+        "TmpOrPrmnntEndwmntsInd": "true",
+        "RprtLndBldngEqpmntInd": "true",
+        "RprtInvstmntsOthrScInd": "true",
+        "RprtPrgrmRltdInvstInd": "false",
+        "RprtOthrAsstsInd": "false",
+        "RprtOthrLbltsInd": "true",
+        "IncldFIN48FtntInd": "true",
+        "IndpndntAdtFnclStmtInd": "false",
+        "CnsldtdAdtFnclStmtInd": "true",
+        "SchlOprtngInd": "true",
+        "FrgnOffcInd": "false",
+        "FrgnActvtsInd": "true",
+        "MrThn5000KTOrgInd": "true",
+        "MrThn5000KTIndvdlsInd": "false",
+        "PrfssnlFndrsngInd": "true",
+        "FndrsngActvtsInd": "true",
+        "GmngActvtsInd": "false",
+        "OprtHsptlInd": "false",
+        "GrntsTOrgnztnsInd": "true",
+        "GrntsTIndvdlsInd": "true",
+        "SkdJRqrdInd": "true",
+        "TxExmptBndsInd": "true",
+        "InvstTxExmptBndsInd": "false",
+        "EscrwAccntInd": "false",
+        "OnBhlfOfIssrInd": "false",
+        "EnggdInExcssBnftTrnsInd": "false",
+        "PYExcssBnftTrnsInd": "false",
+        "LnOtstndngInd": "false",
+        "GrntTRltdPrsnInd": "true",
+        "BsnssRlnWthOrgMmInd": "false",
+        "BsnssRlnWthFmMmInd": "true",
+        "BsnssRlnWthOffcrEntInd": "false",
+        "DdctblNnCshCntrInd": "true",
+        "DdctblArtCntrbtnInd": "false",
+        "TrmntOprtnsInd": "false",
+        "PrtlLqdtnInd": "false",
+        "DsrgrddEnttyInd": "false",
+        "RltdEnttyInd": "true",
+        "RltdOrgnztnCtrlEntInd": "false",
+        "TrnsctnWthCntrlEntInd": "false",
+        "TrnsfrExmptNnChrtblRltdOrgInd": "false",
+        "ActvtsCndctdPrtshpInd": "false",
+        "SkdORqrdInd": "true"
+      },
+      "part_v": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "IRPDcmntCnt": "670",
+        "IRPDcmntW2GCnt": "0",
+        "BckpWthldCmplncInd": "true",
+        "EmplyCnt": "5261",
+        "EmplymntTxRtrnsFldInd": "true",
+        "UnrltdBsIncmOvrLmtInd": "true",
+        "Frm990TFldInd": "true",
+        "FrgnFnnclAccntInd": "false",
+        "PrhbtdTxShltrTrnsInd": "false",
+        "TxblPrtyNtfctnInd": "false",
+        "NnddctblCntrbtnsInd": "false",
+        "QdPrQCntrbtnsInd": "true",
+        "QdPrQCntrDsclInd": "true",
+        "Frm8282PrprtyDspsdOfInd": "false",
+        "Frm8282FldCnt": "0",
+        "RcvFndsTPyPrsnlBnftCntrctInd": "false",
+        "PyPrmmsPrsnlBnftCntrctInd": "false",
+        "Frm8899Fldnd": "false",
+        "Frm1098CFldInd": "false",
+        "DAFExcssBsnssHldngsInd": "false",
+        "TxblDstrbtnsInd": "false",
+        "DstrbtnTDnrInd": "false",
+        "OrgFldInLOfFrm1041Ind": "false",
+        "LcnsdMrThnOnSttInd": "false",
+        "IndrTnnngSrvcsInd": "false"
+      },
+      "part_vi": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "InfInSkdOPrtVIInd": "X",
+        "GvrnngBdyVtngMmbrsCnt": "24",
+        "IndpndntVtngMmbrCnt": "24",
+        "FmlyOrBsnssRlnInd": "false",
+        "DlgtnOfMgmtDtsInd": "false",
+        "ChngTOrgDcmntsInd": "false",
+        "MtrlDvrsnOrMssInd": "false",
+        "MmbrsOrStckhldrsInd": "false",
+        "ElctnOfBrdMmbrsInd": "false",
+        "DcsnsSbjctTApprvInd": "false",
+        "MntsOfGvrnngBdyInd": "true",
+        "MntsOfCmmttsInd": "true",
+        "OffcrMlngAddrssInd": "false",
+        "LclChptrsInd": "false",
+        "Frm990PrvddTGvrnBdyInd": "true",
+        "CnflctOfIntrstPlcyInd": "true",
+        "AnnlDsclsrCvrdPrsnInd": "true",
+        "RglrMntrngEnfrcInd": "true",
+        "WhstlblwrPlcyInd": "true",
+        "DcmntRtntnPlcyInd": "true",
+        "CmpnstnPrcssCEOInd": "true",
+        "CmpnstnPrcssOthrInd": "true",
+        "InvstmntInJntVntrInd": "false",
+        "UpnRqstInd": "X",
+        "BksInCrOfDtl_PrsnNm": "Rensselaer's Controller Office",
+        "BksInCrOfDtl_PhnNm": "5182766426",
+        "USAddrss_AddrssLn1Txt": "110 Eighth Street",
+        "USAddrss_CtyNm": "Troy",
+        "USAddrss_SttAbbrvtnCd": "NY",
+        "USAddrss_ZIPCd": "12180"
+      },
+      "part_vii": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "TtlRprtblCmpFrmOrgAmt": "7471823",
+        "TtlOthrCmpnstnAmt": "1462849",
+        "IndvRcvdGrtrThn100KCnt": "354",
+        "FrmrOfcrEmplysLstdInd": "false",
+        "TtlCmpGrtrThn150KInd": "true",
+        "CmpnstnFrmOthrSrcsInd": "false",
+        "CntrctRcvdGrtrThn100KCnt": "29"
+      },
+      "part_viii": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "AllOthrCntrbtnsAmt": "43838677",
+        "NncshCntrbtnsAmt": "3607574",
+        "TtlCntrbtnsAmt": "43838677",
+        "TtlPrgrmSrvcRvnAmt": "457368252",
+        "InvstmntIncm_TtlRvnClmnAmt": "7880697",
+        "InvstmntIncm_RltdOrExmptFncIncmAmt": "27146",
+        "InvstmntIncm_ExclsnAmt": "7853551",
+        "IncmFrmInvstBndPrcds_TtlRvnClmnAmt": "0",
+        "RyltsRvn_TtlRvnClmnAmt": "4146861",
+        "RyltsRvn_ExclsnAmt": "4146861",
+        "GrssRnts_RlAmt": "4448460",
+        "LssRntlExpnss_RlAmt": "4251307",
+        "RntlIncmOrLss_RlAmt": "197153",
+        "NtRntlIncmOrLss_TtlRvnClmnAmt": "197153",
+        "NtRntlIncmOrLss_UnrltdBsnssRvnAmt": "178209",
+        "NtRntlIncmOrLss_ExclsnAmt": "18944",
+        "GrssAmntSlsAssts_ScrtsAmt": "186810948",
+        "GrssAmntSlsAssts_OthrAmt": "96450",
+        "LssCstOthBssSlsExpnss_ScrtsAmt": "162374376",
+        "LssCstOthBssSlsExpnss_OthrAmt": "166964",
+        "GnOrLss_ScrtsAmt": "24436572",
+        "GnOrLss_OthrAmt": "-70514",
+        "NtGnOrLssInvstmnts_TtlRvnClmnAmt": "24366058",
+        "NtGnOrLssInvstmnts_RltdOrExmptFncIncmAmt": "-70514",
+        "NtGnOrLssInvstmnts_UnrltdBsnssRvnAmt": "-821047",
+        "NtGnOrLssInvstmnts_ExclsnAmt": "25257619",
+        "FndrsngGrssIncmAmt": "29494",
+        "FndrsngDrctExpnssAmt": "21190",
+        "NtIncmFrmFndrsngEvt_TtlRvnClmnAmt": "8304",
+        "NtIncmFrmFndrsngEvt_ExclsnAmt": "8304",
+        "NtIncmFrmGmng_TtlRvnClmnAmt": "0",
+        "GrssSlsOfInvntryAmt": "1633074",
+        "CstOfGdsSldAmt": "1552457",
+        "NtIncmOrLss_TtlRvnClmnAmt": "80617",
+        "NtIncmOrLss_RltdOrExmptFncIncmAmt": "80617",
+        "OthrRvnTtlAmt": "0",
+        "TtlRvn_TtlRvnClmnAmt": "537886619",
+        "TtlRvn_RltdOrExmptFncIncmAmt": "457405501",
+        "TtlRvn_UnrltdBsnssRvnAmt": "-642838",
+        "TtlRvn_ExclsnAmt": "37285279"
+      },
+      "part_ix": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "GrntsTDmstcOrgs_TtlAmt": "405599",
+        "GrntsTDmstcOrgs_PrgrmSrvcsAmt": "405599",
+        "GrntsTDmstcIndvdls_TtlAmt": "165803483",
+        "GrntsTDmstcIndvdls_PrgrmSrvcsAmt": "165803483",
+        "FrgnGrnts_TtlAmt": "911316",
+        "FrgnGrnts_PrgrmSrvcsAmt": "911316",
+        "BnftsTMmbrs_TtlAmt": "0",
+        "CmpCrrntOfcrDrctrs_TtlAmt": "6960381",
+        "CmpCrrntOfcrDrctrs_PrgrmSrvcsAmt": "2571802",
+        "CmpCrrntOfcrDrctrs_MngmntAndGnrlAmt": "3948669",
+        "CmpCrrntOfcrDrctrs_FndrsngAmt": "439910",
+        "CmpDsqlPrsns_TtlAmt": "0",
+        "OthrSlrsAndWgs_TtlAmt": "144506545",
+        "OthrSlrsAndWgs_PrgrmSrvcsAmt": "126767761",
+        "OthrSlrsAndWgs_MngmntAndGnrlAmt": "15238406",
+        "OthrSlrsAndWgs_FndrsngAmt": "2500378",
+        "PnsnPlnCntrbtns_TtlAmt": "16063830",
+        "PnsnPlnCntrbtns_PrgrmSrvcsAmt": "13100849",
+        "PnsnPlnCntrbtns_MngmntAndGnrlAmt": "2962981",
+        "OthrEmplyBnfts_TtlAmt": "18121602",
+        "OthrEmplyBnfts_PrgrmSrvcsAmt": "15262749",
+        "OthrEmplyBnfts_MngmntAndGnrlAmt": "1988908",
+        "OthrEmplyBnfts_FndrsngAmt": "869945",
+        "PyrllTxs_TtlAmt": "9165595",
+        "PyrllTxs_PrgrmSrvcsAmt": "7474997",
+        "PyrllTxs_MngmntAndGnrlAmt": "1690598",
+        "FsFrSrvcsMngmnt_TtlAmt": "0",
+        "FsFrSrvcsLgl_TtlAmt": "3215760",
+        "FsFrSrvcsLgl_MngmntAndGnrlAmt": "3215760",
+        "FsFrSrvcsAccntng_TtlAmt": "406612",
+        "FsFrSrvcsAccntng_MngmntAndGnrlAmt": "406612",
+        "FsFrSrvcsLbbyng_TtlAmt": "0",
+        "FsFrSrvcsPrfFndrsng_TtlAmt": "55890",
+        "FsFrSrvcsPrfFndrsng_FndrsngAmt": "55890",
+        "FsFrSrvcInvstMgmntFs_TtlAmt": "1853483",
+        "FsFrSrvcInvstMgmntFs_MngmntAndGnrlAmt": "1853483",
+        "FsFrSrvcsOthr_TtlAmt": "24492238",
+        "FsFrSrvcsOthr_PrgrmSrvcsAmt": "19247202",
+        "FsFrSrvcsOthr_MngmntAndGnrlAmt": "4706390",
+        "FsFrSrvcsOthr_FndrsngAmt": "538646",
+        "Advrtsng_TtlAmt": "359229",
+        "Advrtsng_PrgrmSrvcsAmt": "220788",
+        "Advrtsng_MngmntAndGnrlAmt": "136537",
+        "Advrtsng_FndrsngAmt": "1904",
+        "OffcExpnss_TtlAmt": "9164131",
+        "OffcExpnss_PrgrmSrvcsAmt": "7770625",
+        "OffcExpnss_MngmntAndGnrlAmt": "1127915",
+        "OffcExpnss_FndrsngAmt": "265591",
+        "InfrmtnTchnlgy_TtlAmt": "2752719",
+        "InfrmtnTchnlgy_PrgrmSrvcsAmt": "2356524",
+        "InfrmtnTchnlgy_MngmntAndGnrlAmt": "386251",
+        "InfrmtnTchnlgy_FndrsngAmt": "9944",
+        "Rylts_TtlAmt": "0",
+        "Occpncy_TtlAmt": "19410063",
+        "Occpncy_PrgrmSrvcsAmt": "15114654",
+        "Occpncy_MngmntAndGnrlAmt": "4182137",
+        "Occpncy_FndrsngAmt": "113272",
+        "Trvl_TtlAmt": "6437790",
+        "Trvl_PrgrmSrvcsAmt": "5747901",
+        "Trvl_MngmntAndGnrlAmt": "494582",
+        "Trvl_FndrsngAmt": "195307",
+        "PymtTrvlEntrtnmntPbOfcl_TtlAmt": "0",
+        "CnfrncsMtngs_TtlAmt": "707149",
+        "CnfrncsMtngs_PrgrmSrvcsAmt": "675452",
+        "CnfrncsMtngs_MngmntAndGnrlAmt": "24477",
+        "CnfrncsMtngs_FndrsngAmt": "7220",
+        "Intrst_TtlAmt": "40756023",
+        "Intrst_PrgrmSrvcsAmt": "37035300",
+        "Intrst_MngmntAndGnrlAmt": "3720723",
+        "PymntsTAfflts_TtlAmt": "0",
+        "DprctnDpltn_TtlAmt": "27900114",
+        "DprctnDpltn_PrgrmSrvcsAmt": "24382711",
+        "DprctnDpltn_MngmntAndGnrlAmt": "3517403",
+        "Insrnc_TtlAmt": "4865319",
+        "Insrnc_PrgrmSrvcsAmt": "2624389",
+        "Insrnc_MngmntAndGnrlAmt": "2236230",
+        "Insrnc_FndrsngAmt": "4700",
+        "AllOthrExpnss_TtlAmt": "0",
+        "TtlFnctnlExpnss_TtlAmt": "518499017",
+        "TtlFnctnlExpnss_PrgrmSrvcsAmt": "459916130",
+        "TtlFnctnlExpnss_MngmntAndGnrlAmt": "53411364",
+        "TtlFnctnlExpnss_FndrsngAmt": "5171523"
+      },
+      "part_x": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "CshNnIntrstBrng_EOYAmt": "0",
+        "SvngsAndTmpCshInvst_BOYAmt": "15670432",
+        "SvngsAndTmpCshInvst_EOYAmt": "6131011",
+        "PldgsAndGrntsRcvbl_BOYAmt": "39695836",
+        "PldgsAndGrntsRcvbl_EOYAmt": "55951321",
+        "AccntsRcvbl_BOYAmt": "3931227",
+        "AccntsRcvbl_EOYAmt": "2592964",
+        "RcvblsFrmOffcrsEtc_EOYAmt": "0",
+        "RcvblFrmDsqlfdPrsn_EOYAmt": "0",
+        "OthNtsLnsRcvblNt_EOYAmt": "0",
+        "InvntrsFrSlOrUs_BOYAmt": "535278",
+        "InvntrsFrSlOrUs_EOYAmt": "573973",
+        "PrpdExpnssDfrdChrgs_BOYAmt": "11252083",
+        "PrpdExpnssDfrdChrgs_EOYAmt": "6509778",
+        "LndBldgEqpCstOrOthrBssAmt": "1180768737",
+        "LndBldgEqpAccmDprcAmt": "503122708",
+        "LndBldgEqpBssNt_BOYAmt": "693491831",
+        "LndBldgEqpBssNt_EOYAmt": "677646029",
+        "InvstmntsPbTrddSc_BOYAmt": "160793615",
+        "InvstmntsPbTrddSc_EOYAmt": "191692046",
+        "InvstmntsOthrScrts_BOYAmt": "517696271",
+        "InvstmntsOthrScrts_EOYAmt": "445133037",
+        "InvstmntsPrgrmRltd_BOYAmt": "28584472",
+        "InvstmntsPrgrmRltd_EOYAmt": "29655152",
+        "IntngblAssts_EOYAmt": "0",
+        "OthrAsstsTtl_BOYAmt": "14561843",
+        "OthrAsstsTtl_EOYAmt": "14756722",
+        "TtlAssts_BOYAmt": "1486212888",
+        "TtlAssts_EOYAmt": "1430642033",
+        "AccntsPyblAccrExpnss_BOYAmt": "164231748",
+        "AccntsPyblAccrExpnss_EOYAmt": "195224756",
+        "DfrrdRvn_BOYAmt": "19789378",
+        "DfrrdRvn_EOYAmt": "24954329",
+        "TxExmptBndLblts_BOYAmt": "467365224",
+        "TxExmptBndLblts_EOYAmt": "457518097",
+        "MrtgNtsPyblScrdInvstPrp_BOYAmt": "20567277",
+        "MrtgNtsPyblScrdInvstPrp_EOYAmt": "20165293",
+        "UnscrdNtsLnsPybl_BOYAmt": "345111169",
+        "UnscrdNtsLnsPybl_EOYAmt": "331182887",
+        "OthrLblts_BOYAmt": "36567561",
+        "OthrLblts_EOYAmt": "37815573",
+        "TtlLblts_BOYAmt": "1053632357",
+        "TtlLblts_EOYAmt": "1066860935",
+        "OrgnztnFllwsSFAS117Ind": "X",
+        "UnrstrctdNtAssts_BOYAmt": "-146633239",
+        "UnrstrctdNtAssts_EOYAmt": "-215076688",
+        "TmprrlyRstrNtAssts_BOYAmt": "184067796",
+        "TmprrlyRstrNtAssts_EOYAmt": "166967942",
+        "PrmnntlyRstrNtAssts_BOYAmt": "395145974",
+        "PrmnntlyRstrNtAssts_EOYAmt": "411889844",
+        "TtlNtAsstsFndBlnc_BOYAmt": "432580531",
+        "TtlNtAsstsFndBlnc_EOYAmt": "363781098",
+        "TtLbNtAsstsFndBlnc_BOYAmt": "1486212888",
+        "TtLbNtAsstsFndBlnc_EOYAmt": "1430642033"
+      },
+      "part_xi": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "InfInSkdOPrtXIInd": "X",
+        "RcncltnRvnExpnssAmt": "19387602",
+        "NtUnrlzdGnsLsssInvstAmt": "-46046945",
+        "OthrChngsInNtAsstsAmt": "-42140090"
+      },
+      "part_xii": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "MthdOfAccntngAccrlInd": "X",
+        "AccntntCmplOrRvwInd": "false",
+        "FSAdtdInd": "true",
+        "FSAdtdBss_CnsldtdBssFnclStmtInd": "X",
+        "AdtCmmttInd": "true",
+        "FdrlGrntAdtRqrdInd": "true",
+        "FdrlGrntAdtPrfrmdInd": "true"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleA",
+    "groups": {
+      "SkdAFrm990SkdAPrtVI": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Part I: Additional Information",
+          "ExplntnTxt": "Rensselaer is a school described in Section 170(b)(1(A)(ii) and checked box 2 on Schedul A, Part I on the current year and previously filed Form 990 returns. Instructions for Form 990, Part IV, line 2 requires an organization to answer \"Yes\" if it meets the 33 1/3% support test of the requlations under sections 509(a)(1) and 170(b)(1)(A)(vi), checks the box on Schedule A, Part II, line 13, 16a or 16b and received from any one contributor contributions of the greater of $5,000 or 2% of the amount on Part VIII, line 1h. Rensselaer meets this test and have answered \"Yes\" to Part IV, line 2 which requires completing Schedule B. Furthermore, the instructions states that an organization filing Schedule B can limit the contributors it reports on Schedule B to greater than 2% of the amount on Part VIII, line 1h only if it checks the box on Schedule A, Part II, line 13, 16a or 16b. However, the tax software that Rensslaer uses to prepare the Form 990 will not display Schedule A, Part II when box 2 is checked on Schedule A, Part I. To be compliant with the instructions for Form 990, Part IV, line 2, Rensselaer is submitting the completed Scheduel A, Part II as a separate attachment."
+        }
+      ]
+    },
+    "schedule_parts": {
+      "skeda_part_i": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "SchlInd": "X"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleB",
+    "groups": {
+      "SkdBCntrbtrInfrmtn": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "CntrbtrInfrmtn_CntrbtrNm": "RESTRICTED",
+          "CntrbtrBsnssNm_BsnssNmLn1Txt": "RESTRICTED",
+          "CntrbtrUSAddrss_AddrssLn1Txt": "RESTRICTED",
+          "CntrbtrUSAddrss_AddrssLn2Txt": "RESTRICTED",
+          "CntrbtrUSAddrss_CtyNm": "RESTRICTED",
+          "CntrbtrUSAddrss_SttAbbrvtnCd": "RESTRICTED",
+          "CntrbtrUSAddrss_ZIPCd": "RESTRICTED",
+          "CntrbtrInfrmtn_TtlCntrbtnsAmt": "RESTRICTED"
+        }
+      ]
+    },
+    "schedule_parts": {},
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleC",
+    "groups": {},
+    "schedule_parts": {
+      "skedc_part_0": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "Frm4720FldSctn4955TxInd": "false",
+        "CrrctnMdInd": "false"
+      },
+      "skedc_part_iia": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "TtlDrctLbbyng_FlngOrgnztnsTtlAmt": "264856",
+        "TtlLbbyngExpnd_FlngOrgnztnsTtlAmt": "264856",
+        "OthrExmptPrpsExpnd_FlngOrgnztnsTtlAmt": "518234161",
+        "TtlExmptPrpsExpnd_FlngOrgnztnsTtlAmt": "518499017",
+        "LbbyngNntxblAmnt_FlngOrgnztnsTtlAmt": "1000000",
+        "GrssrtsNntxbl_FlngOrgnztnsTtlAmt": "250000",
+        "SkdC_Frm4720FldInd": "false",
+        "AvgLbbyngNntxblAmnt_CrrntYrMns3Amt": "1000000",
+        "AvgLbbyngNntxblAmnt_CrrntYrMns2Amt": "1000000",
+        "AvgLbbyngNntxblAmnt_CrrntYrMns1Amt": "1000000",
+        "AvgLbbyngNntxblAmnt_CrrntYrAmt": "1000000",
+        "AvgLbbyngNntxblAmnt_TtlAmt": "4000000",
+        "SkdC_LbbyngClngAmt": "6000000",
+        "AvgTtlLbbyngExpnd_CrrntYrMns3Amt": "249190",
+        "AvgTtlLbbyngExpnd_CrrntYrMns2Amt": "229340",
+        "AvgTtlLbbyngExpnd_CrrntYrMns1Amt": "244504",
+        "AvgTtlLbbyngExpnd_CrrntYrAmt": "264856",
+        "AvgTtlLbbyngExpnd_TtlAmt": "987890",
+        "AvgGrssrtsNntxbl_CrrntYrMns3Amt": "250000",
+        "AvgGrssrtsNntxbl_CrrntYrMns2Amt": "250000",
+        "AvgGrssrtsNntxbl_CrrntYrMns1Amt": "250000",
+        "AvgGrssrtsNntxbl_CrrntYrAmt": "250000",
+        "AvgGrssrtsNntxbl_TtlAmt": "1000000",
+        "SkdC_GrssrtsClngAmt": "1500000"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleD",
+    "groups": {
+      "SkdDOthrLbltsOrg": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Accrued Post Retirement Obligations",
+          "Amt": "15113316"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Asset Retirement Obligation",
+          "Amt": "9225223"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Deferred Compensation",
+          "Amt": "3297158"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Deposits",
+          "Amt": "2131516"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Guarantee",
+          "Amt": "1312442"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "Dsc": "Split Interest Obligations",
+          "Amt": "6735918"
+        }
+      ],
+      "SkdDSpplmntlInfrmtnDtl": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Part V, Line 4: Intended uses of the endowment fund.",
+          "ExplntnTxt": "Income earned on Rensselaer's endowment provides support to students through scholarships, fellowships and prizes. In addition, income is used to provide support to the Institute in the form of professorships, lectures, departmental programs and institutional initiatives."
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Part X : FIN48 Footnote",
+          "ExplntnTxt": "Effective July 1,2008, Rensselaer adopted the FASB Interpretation No.48 (\"FIN48\"), Accounting for Uncertainty in Income Taxes-an interpretation of SFAS No.109, Accounting for Income Taxes. The adoption did not have a material effect on the financial statements."
+        }
+      ]
+    },
+    "schedule_parts": {
+      "skedd_part_v": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "CYEndwmtFnd_BgnnngYrBlncAmt": "687098000",
+        "CYEndwmtFnd_CntrbtnsAmt": "21413000",
+        "CYEndwmtFnd_InvstmntErnngsOrLsssAmt": "-16991684",
+        "CYEndwmtFnd_GrntsOrSchlrshpsAmt": "-26613678",
+        "CYEndwmtFnd_OthrExpndtrsAmt": "-7752322",
+        "CYEndwmtFnd_AdmnstrtvExpnssAmt": "-2386000",
+        "CYEndwmtFnd_EndYrBlncAmt": "654925582",
+        "CYMns1YrEndwmtFnd_BgnnngYrBlncAmt": "657485686",
+        "CYMns1YrEndwmtFnd_CntrbtnsAmt": "33708000",
+        "CYMns1YrEndwmtFnd_InvstmntErnngsOrLsssAmt": "31892580",
+        "CYMns1YrEndwmtFnd_GrntsOrSchlrshpsAmt": "-26058235",
+        "CYMns1YrEndwmtFnd_OthrExpndtrsAmt": "-7741765",
+        "CYMns1YrEndwmtFnd_AdmnstrtvExpnssAmt": "-2030000",
+        "CYMns1YrEndwmtFnd_EndYrBlncAmt": "687256266",
+        "CYMns2YrEndwmtFnd_BgnnngYrBlncAmt": "610351237",
+        "CYMns2YrEndwmtFnd_CntrbtnsAmt": "9603000",
+        "CYMns2YrEndwmtFnd_InvstmntErnngsOrLsssAmt": "90466499",
+        "CYMns2YrEndwmtFnd_GrntsOrSchlrshpsAmt": "-30034264",
+        "CYMns2YrEndwmtFnd_OthrExpndtrsAmt": "-20733736",
+        "CYMns2YrEndwmtFnd_AdmnstrtvExpnssAmt": "-2167000",
+        "CYMns2YrEndwmtFnd_EndYrBlncAmt": "657485686",
+        "CYMns3YrEndwmtFnd_BgnnngYrBlncAmt": "568821134",
+        "CYMns3YrEndwmtFnd_CntrbtnsAmt": "24920000",
+        "CYMns3YrEndwmtFnd_InvstmntErnngsOrLsssAmt": "56785103",
+        "CYMns3YrEndwmtFnd_GrntsOrSchlrshpsAmt": "-28311000",
+        "CYMns3YrEndwmtFnd_OthrExpndtrsAmt": "-9781000",
+        "CYMns3YrEndwmtFnd_AdmnstrtvExpnssAmt": "-2083000",
+        "CYMns3YrEndwmtFnd_EndYrBlncAmt": "610351237",
+        "CYMns4YrEndwmtFnd_BgnnngYrBlncAmt": "708485000",
+        "CYMns4YrEndwmtFnd_CntrbtnsAmt": "2657000",
+        "CYMns4YrEndwmtFnd_InvstmntErnngsOrLsssAmt": "-1791000",
+        "CYMns4YrEndwmtFnd_GrntsOrSchlrshpsAmt": "-29785000",
+        "CYMns4YrEndwmtFnd_OthrExpndtrsAmt": "-112836866",
+        "CYMns4YrEndwmtFnd_AdmnstrtvExpnssAmt": "-2367000",
+        "CYMns4YrEndwmtFnd_EndYrBlncAmt": "568821134",
+        "SkdD_BrdDsgntdBlncEOYPct": "0.14000",
+        "SkdD_PrmnntEndwmntBlncEOYPct": "0.69000",
+        "SkdD_TrmEndwmntBlncEOYPct": "0.17000",
+        "SkdD_EndwmntsHldUnrltdOrgInd": "true",
+        "SkdD_EndwmntsHldRltdOrgInd": "false",
+        "SkdD_RltdOrgLstSchRInd": "false"
+      },
+      "skedd_part_vi": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "Lnd_InvstmntCstOrOthrBssAmt": "1066330",
+        "Lnd_OthrCstOrOthrBssAmt": "3466885",
+        "Lnd_BkVlAmt": "4533215",
+        "Bldngs_InvstmntCstOrOthrBssAmt": "20886829",
+        "Bldngs_OthrCstOrOthrBssAmt": "886275478",
+        "Bldngs_DprctnAmt": "274293016",
+        "Bldngs_BkVlAmt": "632869291",
+        "LshldImprvmnts_InvstmntCstOrOthrBssAmt": "2146893",
+        "LshldImprvmnts_OthrCstOrOthrBssAmt": "1008677",
+        "LshldImprvmnts_DprctnAmt": "2770230",
+        "LshldImprvmnts_BkVlAmt": "385340",
+        "Eqpmnt_OthrCstOrOthrBssAmt": "228773942",
+        "Eqpmnt_DprctnAmt": "206003467",
+        "Eqpmnt_BkVlAmt": "22770475",
+        "OthrLndBldngs_InvstmntCstOrOthrBssAmt": "9471295",
+        "OthrLndBldngs_OthrCstOrOthrBssAmt": "27672408",
+        "OthrLndBldngs_DprctnAmt": "20055995",
+        "OthrLndBldngs_BkVlAmt": "17087708",
+        "SkdD_TtlBkVlLndBldngsAmt": "677646029"
+      },
+      "skedd_part_vii": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "SkdD_TtlBkVlScrtsAmt": "445133037"
+      },
+      "skedd_part_x": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "TtlLbltyAmt": "37815573",
+        "FtntTxtInd": "X"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleE",
+    "groups": {
+      "SkdESpplmntlInfrmtnDtl": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Schedule E, Line 3 - Racially Nondiscriminatory Policy Publicized",
+          "ExplntnTxt": "The Institute shall be open to all students who are qualified according to its admission standards, barring no one on the basis of race, color, creed, national origin, age, religion, marital status, veteran status, disability, sex, or sexual orientation. Efforts shall be made to seek out and admit students of diverse socioeconomic backgrounds whose potential could be reached through a Rensselaer education."
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Schedule E, Line 4 - Explanation of Records and Materials Not Maintained"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Schedule E, Line 5 - Explanation of Organization Discrimination by Race"
+        }
+      ]
+    },
+    "schedule_parts": {
+      "skede_part_i": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "NndscrmntryPlcyStmtInd": "true",
+        "PlcyStmtInBrchrsEtcInd": "true",
+        "PlcyPblczdVBrdcstMdInd": "true",
+        "MntnRclCmpRcsInd": "true",
+        "MntnSchlrshpsRcsInd": "true",
+        "MntnCpyOfBrchrsEtcInd": "true",
+        "MntnCpyOfAllSlInd": "true",
+        "DscrmntRcStdntsRghtsInd": "false",
+        "DscrmntRcAdmssPlcyInd": "false",
+        "DscrmntRcEmplmFcltyInd": "false",
+        "DscrmntRcSchsInd": "false",
+        "DscrmntRcEdcPlcyInd": "false",
+        "DscrmntRcUsOfFcltsInd": "false",
+        "DscrmntRcAthltPrgInd": "false",
+        "DscrmntRcOthrActyInd": "false",
+        "GvrnmntFnnclAdRcvdInd": "true",
+        "GvrnmntFnnclAdRvkdInd": "false",
+        "CmplncWthRvPrc7550Ind": "true"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleF",
+    "groups": {
+      "SkdFAccntActvtsOtsdUS": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Central America and Carribean",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Investments",
+          "RgnTtlExpndtrsAmt": "47699000"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "East Asia and the Pacific",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Investments",
+          "RgnTtlExpndtrsAmt": "1062000"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Europe (including Iceland)",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Investments",
+          "RgnTtlExpndtrsAmt": "3541000"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "North America",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Investments",
+          "RgnTtlExpndtrsAmt": "13472000"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Sub-Saharan Africa",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Investments",
+          "RgnTtlExpndtrsAmt": "11306000"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Europe",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Program Services",
+          "SpcfcSrvcsPrvddTxt": "Study Abroad",
+          "RgnTtlExpndtrsAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "East Asia and Pacific",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Program Services",
+          "SpcfcSrvcsPrvddTxt": "Study Abroad",
+          "RgnTtlExpndtrsAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "South Asia",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Program Service",
+          "SpcfcSrvcsPrvddTxt": "Study Abroad",
+          "RgnTtlExpndtrsAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "East Asia and the Pacific",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Program Service",
+          "SpcfcSrvcsPrvddTxt": "Subcontract",
+          "RgnTtlExpndtrsAmt": "74547"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Europe",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Program Service",
+          "SpcfcSrvcsPrvddTxt": "Subcontract",
+          "RgnTtlExpndtrsAmt": "690127"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "North America",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Program Service",
+          "SpcfcSrvcsPrvddTxt": "Subcontract",
+          "RgnTtlExpndtrsAmt": "121209"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "South America",
+          "OffcsCnt": "0",
+          "EmplyCnt": "0",
+          "OfActvtsCndctdTxt": "Program Services",
+          "SpcfcSrvcsPrvddTxt": "Subcontract",
+          "RgnTtlExpndtrsAmt": "25432"
+        }
+      ],
+      "SkdFGrntsTOrgOtsdUS": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "E Asia & Pacifi",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "74547"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Europe",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "100000"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Europe",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "115399"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Europe",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "168779"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Europe",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "241000"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "Europe",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "64950"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "North America",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "21697"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "North America",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "99512"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "South America",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "12432"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RgnTxt": "South America",
+          "PrpsOfGrntTxt": "Research Subcontrac",
+          "CshGrntAmt": "13000"
+        }
+      ],
+      "SkdFSpplmntlInfrmtnDtl": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Part I, Line 2 - Grantmakers Explanation For Monitoring Use of Funds Outside US",
+          "ExplntnTxt": "Research subcontracts to foreign entities are entered into through a formal subcontract agreement which contains contractual provisions. All subrecipients are subject to subrecipient monitoring process and compliance review."
+        }
+      ]
+    },
+    "schedule_parts": {
+      "skedf_part_i": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "GrntRcrdsMntndInd": "true",
+        "SbttlSpntAmt": "77991315",
+        "TtlSpntAmt": "77991315"
+      },
+      "skedf_part_ii": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "TtlOthrOrgCnt": "10"
+      },
+      "skedf_part_iv": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "TrnsfrTFrgnCrpInd": "true",
+        "IntrstInFrgnTrstInd": "false",
+        "FrgnCrpOwnrshpInd": "true",
+        "PssvFrgnInvstmstCInd": "true",
+        "FrgnPrtnrshpInd": "true",
+        "BycttCntrsInd": "false"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleG",
+    "groups": {
+      "SkdGFndrsrActvtyInf": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "OrgnztnBsnssNm_BsnssNmLn1Txt": "The Stelter Co",
+          "USAddrss_AddrssLn1Txt": "10435 New York",
+          "USAddrss_CtyNm": "Des Moines",
+          "USAddrss_SttAbbrvtnCd": "IA",
+          "USAddrss_ZIPCd": "50322",
+          "FndrsrActvtyInf_ActvtyTxt": "Mailing",
+          "FndrsrActvtyInf_FndrsrCntrlOfFndsInd": "false",
+          "FndrsrActvtyInf_RtndByCntrctrAmt": "55890"
+        }
+      ],
+      "SkdGLcnsdSttsCd": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "LcnsdSttsCd": "CT"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "LcnsdSttsCd": "NY"
+        }
+      ]
+    },
+    "schedule_parts": {
+      "skedg_part_i": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "MlSlcttnsInd": "X",
+        "EmlSlcttnsInd": "X",
+        "PhnSlcttnsInd": "X",
+        "InPrsnSlcttnsInd": "X",
+        "SlcttnOfNnGvtGrntsInd": "X",
+        "SpclFndrsngEvntsInd": "X",
+        "AgrmtPrfFndrsngActyInd": "true",
+        "TtlRtndByCntrctrsAmt": "55890"
+      },
+      "skedg_part_ii": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "Evnt1Nm": "Golf Tournament",
+        "GrssRcptsEvnt1Amt": "29494",
+        "GrssRvnEvnt1Amt": "29494",
+        "OthrDrctExpnssEvnt1Amt": "21190",
+        "GrssRcptsTtlAmt": "29494",
+        "GrssRvnTtlEvntsAmt": "29494",
+        "OthDrctExpnssTtlEvntsAmt": "21190",
+        "DrctExpnsSmmryEvntsAmt": "21190",
+        "NtIncmSmmryAmt": "8304"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleI",
+    "groups": {
+      "SkdIRcpntTbl": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RcpntBsnssNm_BsnssNmLn1Txt": "American Heart Association",
+          "USAddrss_AddrssLn1Txt": "PO Box 50075",
+          "USAddrss_CtyNm": "Prescott",
+          "USAddrss_SttAbbrvtnCd": "AZ",
+          "USAddrss_ZIPCd": "86304",
+          "RcpntTbl_RcpntEIN": "135613797",
+          "RcpntTbl_IRCSctnDsc": "501(c)(3)",
+          "RcpntTbl_CshGrntAmt": "10000",
+          "RcpntTbl_NnCshAssstncAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RcpntBsnssNm_BsnssNmLn1Txt": "George Biddle Kelley Educatio",
+          "USAddrss_AddrssLn1Txt": "PO Box 14692",
+          "USAddrss_CtyNm": "Albany",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12212",
+          "RcpntTbl_RcpntEIN": "161772170",
+          "RcpntTbl_IRCSctnDsc": "501(c)(3)",
+          "RcpntTbl_CshGrntAmt": "15000",
+          "RcpntTbl_NnCshAssstncAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RcpntBsnssNm_BsnssNmLn1Txt": "Rensselaer Newman Foundation",
+          "USAddrss_AddrssLn1Txt": "110 Eighth Street",
+          "USAddrss_CtyNm": "Troy",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12180",
+          "RcpntTbl_RcpntEIN": "141470137",
+          "RcpntTbl_IRCSctnDsc": "501(c)(3)",
+          "RcpntTbl_CshGrntAmt": "34000",
+          "RcpntTbl_NnCshAssstncAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RcpntBsnssNm_BsnssNmLn1Txt": "Simithsonian Institute",
+          "USAddrss_AddrssLn1Txt": "623 Constitution Avenue",
+          "USAddrss_CtyNm": "Washington",
+          "USAddrss_SttAbbrvtnCd": "DC",
+          "USAddrss_ZIPCd": "20560",
+          "RcpntTbl_RcpntEIN": "530206027",
+          "RcpntTbl_IRCSctnDsc": "501(c)(3)",
+          "RcpntTbl_CshGrntAmt": "14000",
+          "RcpntTbl_NnCshAssstncAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RcpntBsnssNm_BsnssNmLn1Txt": "The Beta Psi Association",
+          "USAddrss_AddrssLn1Txt": "PO Box 1063",
+          "USAddrss_CtyNm": "Guilderland",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12084",
+          "RcpntTbl_RcpntEIN": "264133605",
+          "RcpntTbl_IRCSctnDsc": "501(c)(3)",
+          "RcpntTbl_CshGrntAmt": "20000",
+          "RcpntTbl_NnCshAssstncAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RcpntBsnssNm_BsnssNmLn1Txt": "The Community Foundation for",
+          "USAddrss_AddrssLn1Txt": "6 Tower Place",
+          "USAddrss_CtyNm": "Albany",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12203",
+          "RcpntTbl_RcpntEIN": "141505623",
+          "RcpntTbl_IRCSctnDsc": "501(c)(3)",
+          "RcpntTbl_CshGrntAmt": "100000",
+          "RcpntTbl_NnCshAssstncAmt": "0"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RcpntBsnssNm_BsnssNmLn1Txt": "Troy Redevelopment Foundation",
+          "USAddrss_AddrssLn1Txt": "22 First Street",
+          "USAddrss_CtyNm": "Troy",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12180",
+          "RcpntTbl_RcpntEIN": "141777575",
+          "RcpntTbl_IRCSctnDsc": "501(c)(3)",
+          "RcpntTbl_CshGrntAmt": "212599",
+          "RcpntTbl_NnCshAssstncAmt": "0"
+        }
+      ],
+      "SkdIGrntsOthrAsstTIndvInUS": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "GrntTxt": "Scholarships - Undergraduate",
+          "RcpntCnt": "5140",
+          "CshGrntAmt": "72995",
+          "NnCshAssstncAmt": "122347596",
+          "NnCshAssstncDsc": "Tuition Discount"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "GrntTxt": "Pell Awards Undergraduate",
+          "RcpntCnt": "993",
+          "NnCshAssstncAmt": "4258474",
+          "NnCshAssstncDsc": "Pass-through"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "GrntTxt": "Housing/Laptop Grants - Undergrad",
+          "RcpntCnt": "201",
+          "NnCshAssstncAmt": "834797",
+          "NnCshAssstncDsc": "Discounts"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "GrntTxt": "Scholarship - Graduate",
+          "RcpntCnt": "63",
+          "NnCshAssstncAmt": "1234175",
+          "NnCshAssstncDsc": "Tuition Discount"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "GrntTxt": "Fellowship - Graduate",
+          "RcpntCnt": "213",
+          "CshGrntAmt": "2028603",
+          "NnCshAssstncAmt": "3565083",
+          "NnCshAssstncDsc": "Tuition Assistance"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "GrntTxt": "Teaching & Research Asst - Graduate",
+          "RcpntCnt": "919",
+          "NnCshAssstncAmt": "34954120",
+          "NnCshAssstncDsc": "Tuition Assistance"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "GrntTxt": "Awards and Prizes",
+          "CshGrntAmt": "311092"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "GrntTxt": "Research Grants",
+          "CshGrntAmt": "455021"
+        }
+      ],
+      "SkdISpplmntlInfrmtnDtl": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Grantmaker's Description of How Grants are Used",
+          "ExplntnTxt": "Administration, monitoring and oversight of grants is conducted to oversee the progress and completion of the grants , ensuring compliance with all relevant terms and conditions."
+        }
+      ]
+    },
+    "schedule_parts": {
+      "skedi_part_i": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "GrntRcrdsMntndInd": "true"
+      },
+      "skedi_part_ii": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "Ttl501c3OrgCnt": "7",
+        "TtlOthrOrgCnt": "0"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleJ",
+    "groups": {
+      "SkdJRltdOrgOffcrTrstKyEmpl": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "BILL FRANCIS",
+          "TtlTxt": "PROFESSOR",
+          "BsCmpnstnFlngOrgAmt": "332314",
+          "DfrrdCmpnstnFlngOrgAmt": "20524",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "369009"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "CHARLES CARLETTA",
+          "TtlTxt": "Secretary",
+          "BsCmpnstnFlngOrgAmt": "307596",
+          "OthrCmpnstnFlngOrgAmt": "23014",
+          "DfrrdCmpnstnFlngOrgAmt": "20800",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "367581"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "CLAUDE ROUNDS",
+          "TtlTxt": "Vice President",
+          "BsCmpnstnFlngOrgAmt": "285107",
+          "BnsFlngOrgnztnAmnt": "7000",
+          "OthrCmpnstnFlngOrgAmt": "14008",
+          "DfrrdCmpnstnFlngOrgAmt": "21892",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "344178"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "CURTIS N POWELL",
+          "TtlTxt": "Vice President",
+          "BsCmpnstnFlngOrgAmt": "425250",
+          "BnsFlngOrgnztnAmnt": "6000",
+          "OthrCmpnstnFlngOrgAmt": "335433",
+          "DfrrdCmpnstnFlngOrgAmt": "147540",
+          "NntxblBnftsFlngOrgAmt": "11205",
+          "TtlCmpnstnFlngOrgAmt": "925428",
+          "CmpRprtPrr990FlngOrgAmt": "311855"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "DAVID BROND",
+          "TtlTxt": "Vice President",
+          "BsCmpnstnFlngOrgAmt": "129711",
+          "OthrCmpnstnFlngOrgAmt": "15364",
+          "DfrrdCmpnstnFlngOrgAmt": "9400",
+          "NntxblBnftsFlngOrgAmt": "8086",
+          "TtlCmpnstnFlngOrgAmt": "162561"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "E BRUCE WATSON",
+          "TtlTxt": "PROFESSOR",
+          "BsCmpnstnFlngOrgAmt": "332782",
+          "DfrrdCmpnstnFlngOrgAmt": "21354",
+          "NntxblBnftsFlngOrgAmt": "35647",
+          "TtlCmpnstnFlngOrgAmt": "389783"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "FRANCINE BERMAN",
+          "TtlTxt": "PROFESSOR",
+          "BsCmpnstnFlngOrgAmt": "353073",
+          "DfrrdCmpnstnFlngOrgAmt": "21118",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "390362"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "FRANK ROSS",
+          "TtlTxt": "Vice President",
+          "BsCmpnstnFlngOrgAmt": "148080",
+          "OthrCmpnstnFlngOrgAmt": "24438",
+          "DfrrdCmpnstnFlngOrgAmt": "9167",
+          "NntxblBnftsFlngOrgAmt": "8086",
+          "TtlCmpnstnFlngOrgAmt": "189771"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "GRAIG EASTIN",
+          "TtlTxt": "Vice President",
+          "BsCmpnstnFlngOrgAmt": "368500",
+          "OthrCmpnstnFlngOrgAmt": "28768",
+          "DfrrdCmpnstnFlngOrgAmt": "26471",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "439910"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JOHN E KOLB",
+          "TtlTxt": "Vice President",
+          "BsCmpnstnFlngOrgAmt": "409116",
+          "BnsFlngOrgnztnAmnt": "6000",
+          "OthrCmpnstnFlngOrgAmt": "8463",
+          "DfrrdCmpnstnFlngOrgAmt": "21577",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "461327"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "JONATHAN DORDICK",
+          "TtlTxt": "Vice President",
+          "BsCmpnstnFlngOrgAmt": "402777",
+          "OthrCmpnstnFlngOrgAmt": "13918",
+          "DfrrdCmpnstnFlngOrgAmt": "22938",
+          "NntxblBnftsFlngOrgAmt": "17921",
+          "TtlCmpnstnFlngOrgAmt": "457554"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "PRABHAT HAJELA",
+          "TtlTxt": "Provost",
+          "BsCmpnstnFlngOrgAmt": "430574",
+          "BnsFlngOrgnztnAmnt": "2000",
+          "OthrCmpnstnFlngOrgAmt": "10211",
+          "DfrrdCmpnstnFlngOrgAmt": "21769",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "480725"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "ROBERT LINHARDT",
+          "TtlTxt": "PROFESSOR",
+          "BsCmpnstnFlngOrgAmt": "327199",
+          "DfrrdCmpnstnFlngOrgAmt": "25196",
+          "NntxblBnftsFlngOrgAmt": "11205",
+          "TtlCmpnstnFlngOrgAmt": "363600"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "SHEKAR GARDE",
+          "TtlTxt": "DEAN, SCHOOL OF ENGINEERING",
+          "BsCmpnstnFlngOrgAmt": "332500",
+          "OthrCmpnstnFlngOrgAmt": "4970",
+          "DfrrdCmpnstnFlngOrgAmt": "21400",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "375041"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "SHIRLEY ANN JACKSON",
+          "TtlTxt": "President",
+          "BsCmpnstnFlngOrgAmt": "1065000",
+          "BnsFlngOrgnztnAmnt": "250000",
+          "OthrCmpnstnFlngOrgAmt": "77864",
+          "DfrrdCmpnstnFlngOrgAmt": "712639",
+          "NntxblBnftsFlngOrgAmt": "32805",
+          "TtlCmpnstnFlngOrgAmt": "2138308"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "THOMAS BEGLEY",
+          "TtlTxt": "DEAN, LALLY SCHOOL",
+          "BsCmpnstnFlngOrgAmt": "409795",
+          "OthrCmpnstnFlngOrgAmt": "14146",
+          "DfrrdCmpnstnFlngOrgAmt": "21425",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "461537"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "VIRGINIA C GREGG",
+          "TtlTxt": "Vice President",
+          "BsCmpnstnFlngOrgAmt": "422050",
+          "OthrCmpnstnFlngOrgAmt": "17431",
+          "DfrrdCmpnstnFlngOrgAmt": "21440",
+          "NntxblBnftsFlngOrgAmt": "16171",
+          "TtlCmpnstnFlngOrgAmt": "477092"
+        }
+      ],
+      "SkdJSpplmntlInfrmtnDtl": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Part I, Line 1a: Relevant information in regards to selections on 1a."
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Part I, Line 1b: Reason for not following policy regarding payment provisions for expenses",
+          "ExplntnTxt": "The President is the only employee eligible for first class and spousal/companion travel. Other executives may be approved based on medical documentation only. Rensselaer's President is allowed to use first class travel on Rensselaer business in accordance with the terms of her employment agreement, which was approved by independent members of the Compensation and Personnel Development Committee. The President's expenses are subject to review by the Board of Trustees, including any amounts for spousal or companion travel. The Board has oversight of strategic issues for facilities management, which include but are not limited to capital improvements and other costs for Rensselaer's presidential residence. The Board of Rensselaer also oversees the review and audit of expenses of the President relating to the presidential residence and personal services associated with the upkeep of the residence. Such review occurs under the Board's oversight on an at least annual basis."
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Part I, Line 7: Non-Fixed payments not listed above",
+          "ExplntnTxt": "Rensselaer maintains a performance incentive program in connection with the annual evaluation process for its President and Executive Officers. Eligibility for receipt of such incentive payments is limited to certain Executive Officers. Performance awards are made following the evaluative process and subject to review by the Compensation and Personnel Development Committee of the Board based upon such annual evaluations, with the amount of such awards, if any, at its discretion subject to applicable maximum limits by employment contract."
+        }
+      ]
+    },
+    "schedule_parts": {
+      "skedj_part_i": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "FrstClssOrChrtrTrvlInd": "X",
+        "TrvlFrCmpnnsInd": "X",
+        "HsngAllwncOrRsdncInd": "X",
+        "PrsnlSrvcsInd": "X",
+        "WrttnPlcyRfTAndEExpnssInd": "false",
+        "SbstnttnRqrdInd": "true",
+        "CmpnstnCmmttInd": "X",
+        "IndpndntCnsltntInd": "X",
+        "Frm990OfOthrOrgnztnsInd": "X",
+        "WrttnEmplymntCntrctInd": "X",
+        "CmpnstnSrvyInd": "X",
+        "BrdOrCmmttApprvlInd": "X",
+        "SvrncPymntInd": "false",
+        "SpplmntlNnqlRtrPlnInd": "true",
+        "EqtyBsdCmpArrngmInd": "false",
+        "CmpBsdOnRvnOfFlngOrgInd": "false",
+        "CmpBsdOnRvRltdOrgsInd": "false",
+        "CmpBsdNtErnsFlngOrgInd": "false",
+        "CmpBsdNtErnsRltdOrgsInd": "false",
+        "AnyNnFxdPymntsInd": "true",
+        "IntlCntrctExcptnInd": "false",
+        "RbttblPrsmptnPrcInd": "false"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleK",
+    "groups": {
+      "SkdKTxExmptBndsIsss": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BndRfrncCd": "A",
+          "BsnssNmLn1Txt": "City of Troy Capital Reso",
+          "BndIssrEIN": "272027427",
+          "CUSIPNm": "897579AB4",
+          "BndIssdDt": "2010-06-04",
+          "IssPrcAmt": "357084114",
+          "PrpsDsc": "REFI SERIES 2002 B, C & D",
+          "DfsdInd": "false",
+          "OnBhlfOfIssrInd": "false",
+          "PlFnncngInd": "false"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BndRfrncCd": "B",
+          "BsnssNmLn1Txt": "City of Troy Capital Resource Corporation",
+          "BndIssrEIN": "272027427",
+          "CUSIPNm": "897579ANB",
+          "BndIssdDt": "2015-12-02",
+          "IssPrcAmt": "74045000",
+          "PrpsDsc": "REFI SERIES 1999 & 2006",
+          "DfsdInd": "false",
+          "OnBhlfOfIssrInd": "false",
+          "PlFnncngInd": "false"
+        }
+      ],
+      "SkdKTxExmptBndsPrcds": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BndRfrncCd": "A",
+          "RtrdAmt": "7670000",
+          "TtlPrcdsAmt": "357084114",
+          "IssncCstsFrmPrcdsAmt": "2642271",
+          "OthrSpntPrcdsAmt": "354441843",
+          "SbstntlCmpltnYr": "2010",
+          "CrrntRfndngInd": "true",
+          "AdvncRfndngInd": "false",
+          "FnlAllctnMdInd": "true",
+          "AdqtBksAndRcMntInd": "true"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BndRfrncCd": "B",
+          "TtlPrcdsAmt": "81447156",
+          "IssncCstsFrmPrcdsAmt": "989100",
+          "OthrSpntPrcdsAmt": "80458056",
+          "SbstntlCmpltnYr": "2015",
+          "CrrntRfndngInd": "true",
+          "AdvncRfndngInd": "false",
+          "FnlAllctnMdInd": "true",
+          "AdqtBksAndRcMntInd": "true"
+        }
+      ],
+      "SkdKTxExmptBndsPrvtBsUs": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BndRfrncCd": "A",
+          "OwnngBndFnncdPrprtyInd": "false",
+          "AnyLsArrngmntsInd": "false",
+          "MgmtCntrctBndFncdPrpInd": "true",
+          "EnggBndCnslCntrctsInd": "true",
+          "AnyRsrchAgrmntsInd": "true",
+          "EnggBndCnslRsrchInd": "true",
+          "PrvtBsUsByOthrsPct": "0.00800",
+          "TtlPrvtBsnssUsPct": "0.00800",
+          "BndIssMtPrvtScPymtTstInd": "false",
+          "ChngInUsBndFnncdPrpInd": "false",
+          "PrcsNnqlfdBndRmdtdInd": "true"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BndRfrncCd": "B",
+          "OwnngBndFnncdPrprtyInd": "false",
+          "AnyLsArrngmntsInd": "false",
+          "MgmtCntrctBndFncdPrpInd": "true",
+          "EnggBndCnslCntrctsInd": "true",
+          "AnyRsrchAgrmntsInd": "false",
+          "PrvtBsUsByOthrsPct": "0.01500",
+          "TtlPrvtBsnssUsPct": "0.01500",
+          "BndIssMtPrvtScPymtTstInd": "false",
+          "ChngInUsBndFnncdPrpInd": "false",
+          "PrcsNnqlfdBndRmdtdInd": "true"
+        }
+      ],
+      "SkdKTxExmptBndsArbtrg": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "TxExmptBndsArbtrg_BndRfrncCd": "A",
+          "TxExmptBndsArbtrg_Frm8038TFldInd": "false",
+          "TxExmptBndsArbtrg_ExcptnTRbtInd": "true",
+          "TxExmptBndsArbtrg_HdgIdntfdInBksAndRcInd": "false",
+          "HdgPrvdrNm_BsnssNmLn1Txt": "NA",
+          "TxExmptBndsArbtrg_GrssPrcdsInvstdInGICInd": "false",
+          "GICPrvdrNm_BsnssNmLn1Txt": "NA",
+          "TxExmptBndsArbtrg_GrssPrcdsInvstdInd": "false",
+          "TxExmptBndsArbtrg_WrttnPrcTMntrRqsInd": "true"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "TxExmptBndsArbtrg_BndRfrncCd": "B",
+          "TxExmptBndsArbtrg_Frm8038TFldInd": "false",
+          "TxExmptBndsArbtrg_ExcptnTRbtInd": "true",
+          "TxExmptBndsArbtrg_HdgIdntfdInBksAndRcInd": "false",
+          "HdgPrvdrNm_BsnssNmLn1Txt": "NA",
+          "TxExmptBndsArbtrg_GrssPrcdsInvstdInGICInd": "false",
+          "GICPrvdrNm_BsnssNmLn1Txt": "NA",
+          "TxExmptBndsArbtrg_GrssPrcdsInvstdInd": "false",
+          "TxExmptBndsArbtrg_WrttnPrcTMntrRqsInd": "true"
+        }
+      ],
+      "SkdKPrcdrsCrrctvActn": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BndRfrncCd": "A",
+          "PrcdrsCrrctvActnInd": "true"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BndRfrncCd": "B",
+          "PrcdrsCrrctvActnInd": "true"
+        }
+      ]
+    },
+    "schedule_parts": {},
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleL",
+    "groups": {
+      "SkdLGrntAsstBnftIntrstdPrsn": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RltnshpWthOrgTxt": "Son of VP",
+          "CshGrntAmt": "36075",
+          "OfAssstncTxt": "Remission",
+          "AssstncPrpsTxt": "Tuition"
+        }
+      ],
+      "SkdLBsTrInvlvIntrstdPrsn": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "PrsnNm": "Morris Washington",
+          "RltnshpDscrptnTxt": "Spouse of President",
+          "TrnsctnAmt": "241340",
+          "TrnsctnDsc": "Employee Compensation",
+          "ShrngOfRvnsInd": "false"
+        }
+      ]
+    },
+    "schedule_parts": {},
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleM",
+    "groups": {
+      "SkdMOthrNnCshCntrTbl": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "NnCshChckbxInd": "X",
+          "Dsc": "Misc Equipment",
+          "CntrbtnCnt": "10",
+          "NncshCntrbtnsRptF990Amt": "356337"
+        }
+      ]
+    },
+    "schedule_parts": {
+      "skedm_part_i": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "ScrtsPblclyTrdd_NnCshChckbxInd": "X",
+        "ScrtsPblclyTrdd_CntrbtnCnt": "92",
+        "ScrtsPblclyTrdd_NncshCntrbtnsRptF990Amt": "3133794",
+        "RlEsttRsdntl_NnCshChckbxInd": "X",
+        "RlEsttRsdntl_CntrbtnCnt": "1",
+        "RlEsttRsdntl_NncshCntrbtnsRptF990Amt": "117443",
+        "SkdM_AnyPrprtyThtMstBHldInd": "false",
+        "SkdM_RvwPrcssUnslNCGftsInd": "true",
+        "SkdM_ThrdPrtsUsdInd": "false"
+      }
+    },
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleO",
+    "groups": {
+      "SkdOSpplmntlInfrmtnDtl": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Form 990, Part III, Line 4d: Other Program Services Description",
+          "ExplntnTxt": "OTHER PROGRAM SERVICES 4: AUXILIARYNumber of housing units available: Dorm rooms 2,442 Single apts 977 Number of students on meal plans: 3,110 OTHER PROGRAM SERVICES 5: Other Program Services include activities that further Rensselaer's exempt purpose."
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Form 990, Part VI, Line 11b: Form 990 Review Process",
+          "ExplntnTxt": "Form 990 is provided to the Board of Trustees prior to filing via a secure website."
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Form 990, Part VI, Line 12c: Explanation of Monitoring and Enforcement of Conflicts",
+          "ExplntnTxt": "Rensselaer's Trustees, Institute leaders, faculty, and selected staff involved in purchasing, finance and budgeting functions are required annually to review Rensselaer's Conflict of Interest and Commitment Policy and affirmatively verify they are free of any conflict of interest or commitment. Potential conflicts of interest and/or commitments are reviewed by an Institute-wide committee. Also, a report is made to the Board of Trustees Audit Committee annually."
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Form 990, Part VI, Line 15b: Compensation Review and Approval Process for Officers and Key Employees",
+          "ExplntnTxt": "The Rensselaer Board of Trustees has delegated the compensation of the President of Rensselaer to the Compensation and Personnel Development Committee of the Board. The Compensation Committee retains an independent compensation consultant to provide a Compensation and Benefits report to determine the compensation of the President of Rensselaer. The President of Rensselaer holds a non-voting seat on the Board of Trustees and does not participate or attend any discussions and is not a party to any communications of the Board or its designated committee which are held in consideration of her compensation, employment terms or performance evaluation."
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Form 990, Part VI, Line 19: Other Organization Documents Publicly Available",
+          "ExplntnTxt": "The Conflict of Interest policy is available via Rensselaer's website. The disclosure of governing documents and financial statements are made available to the public upon request."
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Other Changes In Net Assets Or Fund Balances - Other Decreases",
+          "ExplntnTxt": "Change in Pension Obligation = -$37342350"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Other Changes In Net Assets Or Fund Balances - Other Decreases",
+          "ExplntnTxt": "Change in Value of Life Income Contracts = -$4871061"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Other Changes In Net Assets Or Fund Balances - Other Increases",
+          "ExplntnTxt": "Miscellaneous Adjustment = $78872"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Other Changes In Net Assets Or Fund Balances - Other Decreases",
+          "ExplntnTxt": "Transfers - Hartford Graduate Cntr = -$5551"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "FrmAndLnRfrncDsc": "Amended Explanation",
+          "ExplntnTxt": "The originally filed return did not include a separate attachment to Schedule A."
+        }
+      ]
+    },
+    "schedule_parts": {},
+    "csv_line_array": []
+  },
+  {
+    "schedule_name": "IRS990ScheduleR",
+    "groups": {
+      "SkdRIdRltdTxExmptOrg": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "DsrgrddEnttyNm_BsnssNmLn1Txt": "RENSSELAER HARTFORD GRADUATE CENTER INC",
+          "USAddrss_AddrssLn1Txt": "275 WINDSOR STREET",
+          "USAddrss_CtyNm": "HARTFORD",
+          "USAddrss_SttAbbrvtnCd": "CT",
+          "USAddrss_ZIPCd": "06120",
+          "IdRltdTxExmptOrg_EIN": "060766747",
+          "IdRltdTxExmptOrg_PrmryActvtsTxt": "GRADUATE INSTRUCTION",
+          "IdRltdTxExmptOrg_LglDmclSttCd": "CT",
+          "IdRltdTxExmptOrg_ExmptCdSctnTxt": "501(c)(3)",
+          "IdRltdTxExmptOrg_PblcChrtySttsTxt": "170-b(1)(A)ii",
+          "DrctCntrllngEnttyNm_BsnssNmLn1Txt": "NA",
+          "IdRltdTxExmptOrg_CntrlldOrgnztnInd": "false"
+        }
+      ],
+      "SkdRIdRltdOrgTxblCrpTr": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RltdOrgnztnNm_BsnssNmLn1Txt": "CRAT 1",
+          "USAddrss_AddrssLn1Txt": "203 Redwood Shores Parkway",
+          "USAddrss_CtyNm": "Redwood Shores",
+          "USAddrss_SttAbbrvtnCd": "CA",
+          "USAddrss_ZIPCd": "94065",
+          "IdRltdOrgTxblCrpTr_PrmryActvtsTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_LglDmclSttCd": "NY",
+          "IdRltdOrgTxblCrpTr_DrctCntrllngNACd": "N/A",
+          "IdRltdOrgTxblCrpTr_EnttyTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_CntrlldOrgnztnInd": "false"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RltdOrgnztnNm_BsnssNmLn1Txt": "CRUT 11",
+          "USAddrss_AddrssLn1Txt": "203 Redwood Shores Parkway",
+          "USAddrss_CtyNm": "Redwood Shores",
+          "USAddrss_SttAbbrvtnCd": "CA",
+          "USAddrss_ZIPCd": "94065",
+          "IdRltdOrgTxblCrpTr_PrmryActvtsTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_LglDmclSttCd": "NY",
+          "IdRltdOrgTxblCrpTr_DrctCntrllngNACd": "N/A",
+          "IdRltdOrgTxblCrpTr_EnttyTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_CntrlldOrgnztnInd": "false"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RltdOrgnztnNm_BsnssNmLn1Txt": "CRUT 1",
+          "USAddrss_AddrssLn1Txt": "203 Redwood Shores Parkway",
+          "USAddrss_CtyNm": "Redwood Shores",
+          "USAddrss_SttAbbrvtnCd": "CA",
+          "USAddrss_ZIPCd": "94065",
+          "IdRltdOrgTxblCrpTr_PrmryActvtsTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_LglDmclSttCd": "NY",
+          "IdRltdOrgTxblCrpTr_DrctCntrllngNACd": "N/A",
+          "IdRltdOrgTxblCrpTr_EnttyTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_CntrlldOrgnztnInd": "false"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RltdOrgnztnNm_BsnssNmLn1Txt": "Pooled Income Fund 2",
+          "USAddrss_AddrssLn1Txt": "203 Redwood Shores Parkway",
+          "USAddrss_CtyNm": "Redwood Shores",
+          "USAddrss_SttAbbrvtnCd": "CA",
+          "USAddrss_ZIPCd": "94065",
+          "IdRltdOrgTxblCrpTr_PrmryActvtsTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_LglDmclSttCd": "NY",
+          "IdRltdOrgTxblCrpTr_DrctCntrllngNACd": "N/A",
+          "IdRltdOrgTxblCrpTr_EnttyTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_CntrlldOrgnztnInd": "false"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "RltdOrgnztnNm_BsnssNmLn1Txt": "External Trusts 9",
+          "USAddrss_AddrssLn1Txt": "110 Eighth Street",
+          "USAddrss_CtyNm": "Troy",
+          "USAddrss_SttAbbrvtnCd": "NY",
+          "USAddrss_ZIPCd": "12180",
+          "IdRltdOrgTxblCrpTr_PrmryActvtsTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_LglDmclSttCd": "NY",
+          "IdRltdOrgTxblCrpTr_DrctCntrllngNACd": "N/A",
+          "IdRltdOrgTxblCrpTr_EnttyTxt": "Trust",
+          "IdRltdOrgTxblCrpTr_CntrlldOrgnztnInd": "false"
+        }
+      ],
+      "SkdRTrnsctnsRltdOrg": [
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BsnssNmLn1Txt": "RENSSELAER HARTFORD GRADUATE CENTER INC",
+          "TrnsctnTxt": "d",
+          "InvlvdAmt": "6381801",
+          "MthdOfAmntDtrmntnTxt": "Cash"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BsnssNmLn1Txt": "CRUT 1",
+          "TrnsctnTxt": "s",
+          "InvlvdAmt": "101750",
+          "MthdOfAmntDtrmntnTxt": "Cash"
+        },
+        {
+          "object_id": 201731359349303678,
+          "ein": "141340095",
+          "BsnssNmLn1Txt": "Pooled Income Fund 2",
+          "TrnsctnTxt": "s",
+          "InvlvdAmt": "180526",
+          "MthdOfAmntDtrmntnTxt": "Cash"
+        }
+      ]
+    },
+    "schedule_parts": {
+      "skedr_part_v": {
+        "object_id": 201731359349303678,
+        "ein": "141340095",
+        "RcptOfIntAnntsRntsRyltsInd": "false",
+        "GftGrntOrCpCntrTOthOrgInd": "false",
+        "GftGrntCpCntrFrmOthOrgInd": "false",
+        "LnsOrGrntsTOthrOrgInd": "true",
+        "LnsOrGrntsFrmOthOrgInd": "false",
+        "DvRltdOrgnztnInd": "false",
+        "AsstSlTOthrOrgInd": "false",
+        "AsstPrchsFrmOthrOrgInd": "false",
+        "AsstExchngInd": "false",
+        "RntlOfFcltsTOthOrgInd": "false",
+        "RntlOfFcltsFrmOthOrgInd": "false",
+        "PrfrmOfSrvcsFrOthOrgInd": "false",
+        "PrfrmOfSrvcsByOthrOrgInd": "false",
+        "ShrngOfFcltsInd": "false",
+        "PdEmplysShrngInd": "false",
+        "RmbrsmntPdTOthrOrgInd": "false",
+        "RmbrsmntPdByOthrOrgInd": "false",
+        "TrnsfrTOthrOrgInd": "false",
+        "TrnsfrFrmOthrOrgInd": "true"
+      }
+    },
+    "csv_line_array": []
+  }
+]
