@@ -41,7 +41,7 @@
   <!--Not sure what documentCount refers to-->
   <ReturnData documentCount="16">
     <IRS990 documentId="IRS990" referenceDocumentId=" IRS990ScheduleO" softwareId="09000047" softwareVersion="2009v1.7">
-      <GrossReceipts>599766924</GrossReceipts>
+      <GrossReceipts>610695232</GrossReceipts>
       <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
       <AllAffiliatesIncluded>false</AllAffiliatesIncluded>
       <Organization501c typeOf501cOrganization="3">X</Organization501c>
@@ -49,62 +49,66 @@
       <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
       <YearFormation>1824</YearFormation>
       <StateLegalDomicile>NY</StateLegalDomicile>
-      <ActivityOrMissionDescription>To apply Science to the common purpose of life.</ActivityOrMissionDescription>
-      <NbrVotingMembersGoverningBody>29</NbrVotingMembersGoverningBody>
-      <NbrIndependentVotingMembers>29</NbrIndependentVotingMembers>
-      <TotalNbrEmployees>4087</TotalNbrEmployees>
-      <TotalNbrVolunteers>2929</TotalNbrVolunteers>
-      <TotalGrossUBI>-2157616</TotalGrossUBI>
-      <NetUnrelatedBusinessTxblIncome>-2284683</NetUnrelatedBusinessTxblIncome>
-      <ContributionsGrantsPriorYear>117871445</ContributionsGrantsPriorYear>
-      <ContributionsGrantsCurrentYear>112306801</ContributionsGrantsCurrentYear>
-      <ProgramServiceRevenuePriorYear>280334182</ProgramServiceRevenuePriorYear>
-      <ProgramServiceRevenueCY>295542012</ProgramServiceRevenueCY>
-      <InvestmentIncomePriorYear>-6889197</InvestmentIncomePriorYear>
-      <InvestmentIncomeCurrentYear>26472980</InvestmentIncomeCurrentYear>
-      <OtherRevenuePriorYear>4697821</OtherRevenuePriorYear>
-      <OtherRevenueCurrentYear>4620508</OtherRevenueCurrentYear>
-      <TotalRevenuePriorYear>396014251</TotalRevenuePriorYear>
-      <TotalRevenueCurrentYear>438942301</TotalRevenueCurrentYear>
-      <GrantsAndSimilarAmntsPriorYear>118721079</GrantsAndSimilarAmntsPriorYear>
-      <GrantsAndSimilarAmntsCY>136264918</GrantsAndSimilarAmntsCY>
+      <ActivityOrMissionDescription>Our mission is to build on Rensselaer's strengths and its distinctive, high quality education, while expanding its research enterprise and cultivating entrepreneurial growth.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>32</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>32</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>3983</TotalNbrEmployees>
+      <TotalNbrVolunteers>4952</TotalNbrVolunteers>
+      <TotalGrossUBI>-2294702</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>-2294702</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>125289994</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>117871445</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>259360986</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>280334182</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>12471219</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>-6889197</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>4248438</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>4697821</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>448400638</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>396014251</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>120837868</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>118721079</GrantsAndSimilarAmntsCY>
       <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
-      <SalariesEtcPriorYear>183940364</SalariesEtcPriorYear>
-      <SalariesEtcCurrentYear>177454492</SalariesEtcCurrentYear>
-      <TotalProfFundrsngExpPriorYear>74579</TotalProfFundrsngExpPriorYear>
-      <TotalProfFundrsngExpCY>81370</TotalProfFundrsngExpCY>
-      <TotalFundrsngExpCurrentYear>6726277</TotalFundrsngExpCurrentYear>
-      <OtherExpensePriorYear>152692609</OtherExpensePriorYear>
-      <OtherExpensesCurrentYear>161419195</OtherExpensesCurrentYear>
-      <TotalExpensesPriorYear>455428631</TotalExpensesPriorYear>
-      <TotalExpensesCurrentYear>475219975</TotalExpensesCurrentYear>
-      <RevenuesLessExpensesPriorYear>-59414380</RevenuesLessExpensesPriorYear>
-      <RevenuesLessExpensesCY>-36277674</RevenuesLessExpensesCY>
-      <TotalAssetsBOY>1488117990</TotalAssetsBOY>
-      <TotalAssetsEOY>1497825832</TotalAssetsEOY>
-      <TotalLiabilitiesBOY>968531212</TotalLiabilitiesBOY>
-      <TotalLiabilitiesEOY>995303238</TotalLiabilitiesEOY>
-      <NetAssetsOrFundBalancesBOY>519586778</NetAssetsOrFundBalancesBOY>
-      <NetAssetsOrFundBalancesEOY>502522594</NetAssetsOrFundBalancesEOY>
-      <MissionDescription>To apply Science to the common purpose of life.</MissionDescription>
+      <SalariesEtcPriorYear>173828132</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>183940364</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>394017</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>74579</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>7606817</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>157156474</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>152692609</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>452216491</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>455428631</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-3815853</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-59414380</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>1647223022</TotalAssetsBOY>
+      <TotalAssetsEOY>1471036990</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>825492265</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>51450212</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>821730757</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>519586778</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>Our mission is to build on Rensselaer's strengths and its distinctive, high quality education, while expanding its research enterprise and cultivating entrepreneurial growth.</MissionDescription>
       <SignificantNewProgramServices>false</SignificantNewProgramServices>
       <SignificantChange>false</SignificantChange>
-      <Expense>130056819</Expense>
-      <Grants>16876653</Grants>
-      <Description>INSTRUCTIONNumber of students enrolled: undergraduate 5,659 graduate 1,997</Description>
+      <Expense>131736351</Expense>
+      <!--Grant amount not listed, double check with a different pdf-->
+      <Grants>0</Grants>
+      <Description>INSTRUCTIONNumber of students enrolled: undergraduate 5,368 graduate 1,130</Description>
       <Activity2>
-        <Expense>105466625</Expense>
-        <Grants>15822539</Grants>
-        <Description>RESEARCHNumber of active research projects: 845</Description>
+        <Expense>96312552</Expense>
+         <!--Grant amount not listed, double check with a different pdf-->
+        <Grants>0</Grants>
+        <Description>RESEARCHNumber of active research projects: 822</Description>
       </Activity2>
       <Activity3>
         <Expense>103302183</Expense>
-        <Grants>101110747</Grants>
-        <Description>SCHOLARSHIP &amp; FELLOWSHIPNumber of undergraduate students on scholarship: 5,238Number of graduate students on fellowships: 125</Description>
+         <!--Grant amount not listed, double check with a different pdf-->
+        <Grants>0</Grants>
+        <Description>SCHOLARSHIP &amp; FELLOWSHIPNumber of undergraduate students on scholarship: 5,351Number of graduate students on fellowships: 144</Description>
       </Activity3>
-      <TotalOfOtherProgramServiceExp>70001662</TotalOfOtherProgramServiceExp>
-      <TotalOfOtherProgramServiceGrnt>2454979</TotalOfOtherProgramServiceGrnt>
-      <TotalProgramServiceExpense>408827289</TotalProgramServiceExpense>
+      <TotalOfOtherProgramServiceExp>71794963</TotalOfOtherProgramServiceExp>
+       <!--Grant amount not listed, double check with a different pdf-->
+      <TotalOfOtherProgramServiceGrnt>0</TotalOfOtherProgramServiceGrnt>
+      <TotalProgramServiceExpense>386446799</TotalProgramServiceExpense>
       <DescribedIn501C3 referenceDocumentId=" IRS990ScheduleA">true</DescribedIn501C3>
       <ScheduleBRequired referenceDocumentId=" IRS990ScheduleB">true</ScheduleBRequired>
       <PoliticalActivities referenceDocumentId=" IRS990ScheduleC">false</PoliticalActivities>
@@ -116,7 +120,8 @@
       <CreditCounseling referenceDocumentId=" IRS990ScheduleD">false</CreditCounseling>
       <TermOrPermanentEndowments referenceDocumentId=" IRS990ScheduleD">true</TermOrPermanentEndowments>
       <BalanceSheetAmountsReported referenceDocumentId=" IRS990ScheduleD">true</BalanceSheetAmountsReported>
-      <IndependentAuditFinancialStmt referenceDocumentId=" IRS990ScheduleD">false</IndependentAuditFinancialStmt>
+      <IndependentAuditFinancialStmt referenceDocumentId=" 
+      IRS990ScheduleD">true</IndependentAuditFinancialStmt>
       <ConsolidatedAuditFinancialStmt referenceDocumentId=" IRS990ScheduleD">true</ConsolidatedAuditFinancialStmt>
       <School referenceDocumentId=" IRS990ScheduleE">true</School>
       <ForeignOffice>false</ForeignOffice>
@@ -137,7 +142,7 @@
       <ExcessBenefitTransaction referenceDocumentId=" IRS990ScheduleL">false</ExcessBenefitTransaction>
       <PriorExcessBenefitTransaction referenceDocumentId=" IRS990ScheduleL">false</PriorExcessBenefitTransaction>
       <LoanToOfficerOrDQP referenceDocumentId=" IRS990ScheduleL">false</LoanToOfficerOrDQP>
-      <GrantToRelatedPerson referenceDocumentId=" IRS990ScheduleL">true</GrantToRelatedPerson>
+      <GrantToRelatedPerson referenceDocumentId=" IRS990ScheduleL">false</GrantToRelatedPerson>
       <BsnssRltnshpWithOrganization referenceDocumentId=" IRS990ScheduleL">false</BsnssRltnshpWithOrganization>
       <BsnssRltnshpThruFamilyMember referenceDocumentId=" IRS990ScheduleL">true</BsnssRltnshpThruFamilyMember>
       <OfficerEntityWithBsnssRltnshp referenceDocumentId=" IRS990ScheduleL">true</OfficerEntityWithBsnssRltnshp>
@@ -150,11 +155,12 @@
       <RelatedOrgControlledEntity referenceDocumentId=" IRS990ScheduleR">true</RelatedOrgControlledEntity>
       <TransfersToExemptNonChrtblOrg referenceDocumentId=" IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
       <ActivitiesConductedPartnership referenceDocumentId=" IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <!--This is end of Part IV schedules-->
       <ScheduleORequired>true</ScheduleORequired>
-      <NumberFormsTransmittedWith1096>781</NumberFormsTransmittedWith1096>
+      <NumberFormsTransmittedWith1096>720</NumberFormsTransmittedWith1096>
       <NumberW2GIncluded>0</NumberW2GIncluded>
       <ComplianceWithBackupWitholding>true</ComplianceWithBackupWitholding>
-      <NumberOfEmployees>4087</NumberOfEmployees>
+      <NumberOfEmployees>3983</NumberOfEmployees>
       <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
       <UnrelatedBusinessIncome>true</UnrelatedBusinessIncome>
       <Form990-TFiled>true</Form990-TFiled>
@@ -176,8 +182,9 @@
       <TaxableDistributions>false</TaxableDistributions>
       <DistributionToDonor>false</DistributionToDonor>
       <FiledLieu1041>false</FiledLieu1041>
-      <NbrVotingGoverningBodyMembers>29</NbrVotingGoverningBodyMembers>
-      <NumberIndependentVotingMembers>29</NumberIndependentVotingMembers>
+      <!--Section A. Governing Body and Management-->
+      <NbrVotingGoverningBodyMembers>32</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>32</NumberIndependentVotingMembers>
       <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
       <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
       <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
@@ -187,10 +194,11 @@
       <DecisionsSubjectToApproval>false</DecisionsSubjectToApproval>
       <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
       <MinutesOfCommittees>true</MinutesOfCommittees>
-      <OfficerMailingAddress>false</OfficerMailingAddress>
       <LocalChapters>false</LocalChapters>
       <PoliciesReferenceChapters>false</PoliciesReferenceChapters>
       <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <!--Section B. Policies-->
       <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
       <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
       <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
@@ -200,9 +208,10 @@
       <CompensationProcessOther>true</CompensationProcessOther>
       <InvestmentInJointVenture>false</InvestmentInJointVenture>
       <WrittenPolicyOrProcedure>false</WrittenPolicyOrProcedure>
+      <!-- Section C. Disclosure -->
       <UponRequest>X</UponRequest>
       <TheBooksAreInCareOf>
-        <NamePerson>Rensselaer's Controller Office</NamePerson>
+        <NamePerson>Susan Proskine</NamePerson>
         <TelephoneNumber>5182766426</TelephoneNumber>
         <AddressUS>
           <AddressLine1>110 Eighth Street</AddressLine1>
@@ -212,6 +221,8 @@
         </AddressUS>
       </TheBooksAreInCareOf>
       <Form990PartVIISectionA>
+      <!--This information is on final page of PDF!-->
+      <!--This is where I'm leaving off for this commit-->
         <NamePerson>WILLIAM WALKER</NamePerson>
         <Title>Vice President</Title>
         <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
